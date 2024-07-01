@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD in Robotics Student @ Georgia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Tejo_Professional_Headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>85 5th Street NW</p>
+    <p>Atlanta,Georgia</p>
+    <p>United States 30308</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hey ya'll !! I am Tejonidhi Raghunath Deshpande, a graduate student in Robotics at Georgia Institute of Technology advised by <a href="https://kamoamoa.space/#hero">Dr. Josiah Hester</a>. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work focuses on making robots sustainable and energy-efficient by employing intelligent control strategies, developing innovative actuator mechanisms and creating the required firmware for successful deployment. I strongly believe that reinforment learning will play an important role in making the future of robotics more sustainable and foolproof.
+
+I recently completed my Masters in Robotics (from Georgia Tech), where I was advised by <a href="https://www.me.gatech.edu/faculty/sadegh">Dr. Nader Sadegh</a>. My masters capstone was based on robotic grasping and reinforcement learning. You can find a detailed description of the project in the paper linked   <a href="#">here</a>.
