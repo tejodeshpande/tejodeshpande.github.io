@@ -4,5 +4,5 @@ date: 2023-08-21 15:59:00-0400
 inline: true
 related_posts: false
 ---
-Graduate Teaching Assistant for Fundamentals of Mechatronics (ME 4405).
 
+Graduate Teaching Assistant for Fundamentals of Mechatronics (ME 4405).
