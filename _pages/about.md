@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hey ya'll !! I am Tejonidhi Raghunath Deshpande, a graduate student in Robotics at Georgia Institute of Technology advised by <a href="https://kamoamoa.space/#hero">Dr. Josiah Hester</a>.
 
-My work focuses on making robots sustainable and energy-efficient by employing intelligent control strategies, developing innovative actuator mechanisms and creating the required firmware for successful deployment. I strongly believe that reinforment learning will play an important role in making the future of robotics more sustainable and foolproof.
+My work focuses on making robots sustainable and energy-efficient by employing intelligent control strategies, developing innovative actuator mechanisms and creating the required firmware for successful deployment. I strongly believe that reinforment learning will play an important role in making the future of robotics more versatile, sustainable and robust.
 
 I recently completed my Masters in Robotics (from Georgia Tech), where I was advised by <a href="https://www.me.gatech.edu/faculty/sadegh">Dr. Nader Sadegh</a>. My masters capstone was based on robotic grasping and reinforcement learning. You can find a detailed description of the project in the paper linked <a href="#">here</a>.
