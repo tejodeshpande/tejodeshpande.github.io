@@ -36,6 +36,15 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+
+  // The headshot is a tall portrait (1685x3264), so a 50% border-radius on a
+  // full-height box renders as an ellipse. Constrain the circular variant to a
+  // square box and crop into it, biased upward so the face stays centred.
+  img.rounded-circle {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center 26%;
+  }
 }
 
 // TODO: redefine content layout.
