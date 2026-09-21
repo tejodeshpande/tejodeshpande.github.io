@@ -11,6 +11,8 @@ A soft pneumatic actuator has no joints and no encoders, so there is nothing to 
 
 **Track Dots** is the C++ tool that does the watching: it follows markers along a bending actuator, converts their positions into per-segment curvature, and feeds that back to the pressure controller. It is the vision and control tooling behind the [pneumatic soft actuator work]({{ '/publications/' | relative_url }}).
 
+**Source:** [`tejodeshpande/rt-track`](https://github.com/tejodeshpande/rt-track/tree/rs2_rt) — the `rs2_rt` branch.
+
 ## From pixels to curvature
 
 The pipeline is deliberately short, because every stage costs frame time:
