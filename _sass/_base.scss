@@ -187,11 +187,18 @@ ul.task-list input[type="checkbox"] {
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
+    margin-top: 0.9rem;
     font-family: monospace;
+    font-size: 0.8rem;
+    line-height: 1.65;
+    text-align: center;
+    opacity: 0.85;
 
     p {
-      display: inline-block;
+      // One line per address line. The upstream rule left these as
+      // inline-blocks and relied on the container width to wrap them, which
+      // broke the address at arbitrary points.
+      display: block;
       margin: 0;
     }
   }
@@ -208,6 +215,11 @@ ul.task-list input[type="checkbox"] {
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+
+    // Raise the column so the headshot is vertically centred against the body
+    // text. The image plus address is taller than the text beside it, so
+    // without this the photo sits low and the block overhangs the paragraphs.
+    margin-top: -2.25rem;
 
     .address {
       p {
@@ -724,6 +736,9 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          // The site owner's own name: make it clearly stand out from the
+          // co-authors rather than only carrying an underline.
+          font-weight: 700;
         }
 
         > span.more-authors {

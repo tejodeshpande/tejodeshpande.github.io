@@ -6,7 +6,7 @@ subtitle: PhD in Robotics Student @ Georgia Tech
 
 profile:
   align: right
-  image: Tejo_Professional_Headshot.jpeg
+  image: Tejo_Professional_Headshot_circle.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>85 5th Street NW</p>
