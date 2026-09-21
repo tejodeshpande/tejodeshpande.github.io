@@ -49,4 +49,7 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Skipped paths: generated Lighthouse reports and the vendored Plotly
+          # demo are not hand-written content (they mirror .prettierignore).
+          # Skipped hosts: these return 403 to non-browser user agents in CI.
+          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path lighthouse_results --exclude-path assets/plotly/demo.html --exclude 'stackoverflow\.com' --exclude 'intmath\.com' --exclude 'codepen\.io' --verbose --no-progress './**/*.md' './**/*.html'
