@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Coming Soon !!!
+description: Hardware and machine learning work, from wearable sensing to soft robotics.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
