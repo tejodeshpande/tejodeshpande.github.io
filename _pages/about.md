@@ -24,7 +24,7 @@ Imagine a robot you could leave out in the world for years: one that runs on the
 
 In our ICRA 2026 paper, we showed that a single motion sensor is enough to detect a puncture in a pneumatic soft actuator, find the damaged chamber, and recover its actuation force. I've also built a battery-free drone (finalist, Georgia Tech SustainX 2024) and contributed to bioinspired camouflage fibers that adapt their color using computer vision (ACS Nano 2025).
 
-Before my PhD, I earned an M.S. in Robotics at Georgia Tech, advised by <a href="https://www.me.gatech.edu/faculty/sadegh">Dr. Nader Sadegh</a>, where I also developed wearable sensing for a foot–ankle orthosis. Before that, I completed my bachelor's in Mechanical Engineering with a specialization in Mechatronics at Walchand College of Engineering, Sangli, graduating with a silver medal, where I built vision-based systems for robotic grasping and object tracking.
+Before my PhD, I earned an M.S. in Robotics at Georgia Tech, advised by <a href="https://www.me.gatech.edu/faculty/sadegh">Dr. Nader Sadegh</a>. Before that, I completed my bachelor's in Mechanical Engineering with a specialization in Mechatronics at Walchand College of Engineering, Sangli, graduating with a silver medal, where I built vision-based systems for robotic grasping and object tracking.
 
 <!-- I strongly believe that reinforment learning will play an important role in making the future of robotics more versatile, sustainable and robust. -->
 
