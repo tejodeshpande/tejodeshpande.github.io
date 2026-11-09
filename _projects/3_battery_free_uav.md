@@ -18,7 +18,7 @@ A flapping-wing UAV designed to run without a battery, drawing its power from an
     </div>
 </div>
 <div class="caption">
-    Left: the 3D-printed planetary gearbox, opened to show the planet carrier and the motor pinion inside the ring gear. Right: the assembled geared motor weighs 16.54 g, wiring included.
+    A lightweight miniature planetary gearbox (4:1) created with SLA printing.
 </div>
 
 <div class="row">
@@ -30,5 +30,5 @@ A flapping-wing UAV designed to run without a battery, drawing its power from an
     </div>
 </div>
 <div class="caption">
-    The full vehicle on a test mount: solar array above the fuselage (left), and a top view of the carbon-fibre wings, onboard electronics and gear-driven flapping mechanism (right).
+    A 90g battery-free ornithopter prototype made from carbon fiber.
 </div>
